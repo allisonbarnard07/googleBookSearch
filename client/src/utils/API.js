@@ -1,5 +1,5 @@
 import axios from "axios";
-// endpoint from googlebooks api
+
 const BaseUrl = "https://www.googleapis.com/books/v1/volumes?q="
 
 export default {
